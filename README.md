@@ -1,4 +1,4 @@
-#HOMETOWN HOMEPAGE
+#  HOMETOWN HOMEPAGE
 
 This is my first solo project from my front-end career path course on https://www.scrimba.com.
 
